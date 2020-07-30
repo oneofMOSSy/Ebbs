@@ -1,0 +1,60 @@
+
+body {
+    background-color: blanchedalmond;
+    margin: 2%;
+    margin-top: 3%;
+    font-family: "Sofia";
+}
+
+#text1 {
+    color: black;
+    outline: solid; 
+    width: 15%;
+    height: 12%;
+    margin-left: 45%;
+    font-size: 200%;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#A {
+    background-image: url("../EBBS/Kalmar.jpg");
+    background-size: 100%;
+    background-position-y: 55%;
+    height: 99%;
+    padding-top: 0.4%;
+}
+
+.text2 {
+    text-align: left;
+    font-size: 150%;
+    color: black;
+    float: center;
+    margin-left: 6%;
+}
+.btn {
+    
+    border: none;
+    background-color: transparent;
+    padding: none;
+    font-size: 200%;
+    cursor: pointer;
+    display: left; 
+    outline: solid;
+}
+
+.js {
+    background-color: transparent;
+}
+
+.textwindow {
+    margin-top: 10%;
+    margin-left: 5%;
+    float: left;
+    background-color: transparent;
+    color: transparent;
+}
+#demo {
+    width: 10vw; /* Viewport width */
+}
