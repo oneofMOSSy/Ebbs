@@ -20,7 +20,7 @@ body {
 
 #A {
     background-image: url("Kalmar.jpg");
-    background-size: 100%;
+    background-size: 100vw;
     background-position-y: 55%;
     height: 99%;
     padding-top: 0.4%;
